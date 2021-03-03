@@ -1,4 +1,4 @@
-import math
+import mathn
 
 def area_triangle(base, height):
     area = 0.5*base*height
